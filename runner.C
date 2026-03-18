@@ -9,6 +9,6 @@ int main() {
     scanf("%d", &option);
     printf("option is %d generating %p", option, &option);
     if (option == 1) {
-        printf
+        printf("woring on it")';
     }
 }
