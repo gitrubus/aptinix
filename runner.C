@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int option;
-int data = option;
+int data = 0;
 
 int main() {
     printf("welcome to the program");
